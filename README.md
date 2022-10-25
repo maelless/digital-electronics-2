@@ -1,4 +1,4 @@
-# Lab 4: BENJAMIN - DELLA MAGGIORE MAHIQUES
+# Lab 4: MAELLE SORIANO
 
 ### Stopwatch
 
