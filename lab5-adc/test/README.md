@@ -10,7 +10,7 @@
    | Up     | 0.495&nbsp;V | 101 | 99 | 0x65 |
    | Down   | 1.203&nbsp;V | 246 | 257 | 0xF6 |
    | Left   | 1.9697 V     |403  | 410 | 0x193 |
-   | Select | 3.1818 V     |  65 | 640 | 0x28A |
+   | Select | 3.1818 V     |  650 | 640 | 0x28A |
    | none   | 5 V          |1023 | - | 0x3FF |
 
 ### Temperature meter
