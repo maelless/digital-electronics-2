@@ -16,7 +16,8 @@
 
 2. Draw a timing diagram of I2C signals when calling function `rtc_read_years()`. Let this function reads one byte-value from RTC DS3231 address `06h` (see RTC datasheet) in the range `00` to `99`. Specify when the SDA line is controlled by the Master device and when by the Slave device. Draw the whole request/receive process, from Start to Stop condition. The image can be drawn on a computer (by [WaveDrom](https://wavedrom.com/) for example) or by hand. Name all parts of timing diagram.
 
-   ![image](https://user-images.githubusercontent.com/114487158/202009109-9a831068-4581-4085-8b3d-b79067349ecd.png)
+   ![image](https://user-images.githubusercontent.com/114487158/202009352-d1ead50c-887b-4108-9624-6c828ddaa96c.png)
+
 
 
 ### Meteo station
@@ -25,4 +26,5 @@ Consider an application for temperature and humidity measurements. Use sensor DH
 
 3. Draw a flowchart of `TIMER1_OVF_vect` (which overflows every 1&nbsp;sec) for such Meteo station. The image can be drawn on a computer or by hand. Use clear description of individual algorithm steps.
 
-   ![image](https://user-images.githubusercontent.com/114487158/202009193-f00d7113-fe1a-4d0b-b68f-95b6ab6f358a.png)
+   ![image](https://user-images.githubusercontent.com/114487158/202009414-031ebb2c-6fa7-4218-80f4-32aa17d89ce8.png)
+
